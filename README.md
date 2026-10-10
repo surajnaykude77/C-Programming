@@ -34,7 +34,7 @@ You need a C compiler, such as GCC, to compile and execute these programs.
 
 3. Compile the program:
 
-gcc program1.c -o program1
+gcc program1.c -o Myexe
 
 4. Run the program on Windows:
 
@@ -58,6 +58,6 @@ I plan to expand my programming practice by adding C++ and Java programs in sepa
 
 ## Author
 
-Suraj Navnath Naikude
+**Suraj Navanath Naykude**
 
 This repository reflects my ongoing learning and practice in programming. Suggestions and constructive feedback are welcome.
