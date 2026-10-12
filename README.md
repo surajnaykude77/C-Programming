@@ -17,13 +17,27 @@ The main purpose of this repository is to strengthen my understanding of C progr
 * Arrays and strings
 * Pointers
 * Structures and other C programming concepts
+* Variables and data types
+* User input and output using scanf() and printf()
+* Arithmetic operations
+* Basic comparisons
+* Working with integers and floating-point numbers
+* Accepting string input
+* Average of Two Numbers — Calculates the average of two numbers.
+* Average of Three Numbers — Calculates the average of three numbers.
+* Minimum of Two Numbers — Finds the smaller of two numbers.
+* Maximum of Two Numbers — Finds the greater of two numbers.
+* Accept Integer Input — Accepts an integer from the user.
+* Accept Float Input — Accepts a floating-point number from the user.
+* Accept String Input — Accepts a string from the user.
+* Accept String, Integer, and Float Input — Demonstrates accepting different types of input from the user.
 
 *Topics will be updated as more programs are added.*
 
 ## Repository Structure
 
 
-Each C source file contains an individual program for practicing a particular concept.
+Each C source file contains an individual program for practicing a particular concept. Each program is advanced than previous program 
 
 ## How to Compile and Run
 
@@ -46,6 +60,7 @@ On Linux or macOS, run it using:
 
 ## Learning Goals
 
+* learning industry level programming
 * Build a strong foundation in C programming.
 * Improve logical thinking and problem-solving.
 * Understand programming concepts through practical examples.
